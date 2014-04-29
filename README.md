@@ -37,4 +37,4 @@ median of three for pivot; (d) one uses the median of three medians for pivot; (
 (a), (b), and (c); (f) one uses (a), (b), and (d), plus the java built-in Arrays.sort.
 Please submit your the modified code along with a transcript of its execution in the ICON dropbox
 for Project2 before or on 10/21/2013.
-Thank you!
+Thank you! 

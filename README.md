@@ -1,4 +1,4 @@
-Algorithms_Sorting
+Sorting Algorithm Implementations
 ==================
 
 Comaprison of some sorting algorithms
